@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17219431612",
+    "firebase_url":"https://flutter-chat-81653-default-rtdb.firebaseio.com/",
+    "project_id": "flutter-chat-81653",
+    "storage_bucket": "flutter-chat-81653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17219431612:android:5233b71086a1d1828d34b9",
+        "android_client_info": {
+          "package_name": "com.teamvindex.pugchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17219431612-44c4bjml086hh7kc41iks52o777jv6ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb6xQ_8i_ivkir5wBgjmTM5BC-RyTepmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17219431612-44c4bjml086hh7kc41iks52o777jv6ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
